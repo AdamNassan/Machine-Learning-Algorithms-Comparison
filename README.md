@@ -76,7 +76,7 @@ The following metrics will be used to evaluate model performance:
 - Submit a well-documented Jupyter Notebook or Python script with the implementation.
 
 ### Report
-- A concise report (7–9 pages) that includes:
+- A concise report (9 pages) that includes:
   - Introduction to each method.
   - Experimental approach and algorithm implementation.
   - Detailed analysis of results and metric comparisons.
